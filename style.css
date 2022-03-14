@@ -1,0 +1,20 @@
+#contact{
+    padding-top: 4rem;
+    padding-bottom: 3rem;
+    background-color: #e2e2e2;
+  } 
+#about{
+    background-color: #e2e2e2;
+    padding-bottom: 6rem;
+}
+#education{
+    padding-bottom: 6rem;
+}
+.jumbotron {
+    padding-top: 6rem;
+    padding-bottom: 3rem;
+    background-color: #e2e2e2;
+}
+section{
+    padding-top: 5rem;
+}
